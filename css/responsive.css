@@ -1,0 +1,1269 @@
+
+/* ==========================================SCREEN 1440======================== */
+
+@media only screen and (max-width: 1440px) {
+
+  }
+  
+
+  /* ==========================================SCREEN 1024======================== */
+
+@media only screen and (max-width: 1024px) {
+
+     .banner .banner-text .text1 h2 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .banner .banner-text .text1{
+        margin:100px 0 0 0;
+    }
+    .banner .banner-text .text1 h1 {
+        font-size: 35px;
+        line-height: 40px;
+        width: 92%;
+        padding: 0 0 30px 0;
+    }
+
+    .bannerbtn {
+        font-size: 16px;
+        line-height: 25px;
+        padding: 13px 20px;
+    }
+
+
+      .service{
+        margin-top: 5rem;
+    }
+    .service .service-head h4 {
+        font-size: 20px;
+        line-height: 25px;
+    
+    }
+
+    .service .service-head h2 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .servicearea img{width:400px;
+        height:350px;
+        }
+
+        .web-develop-text {
+            padding: 0 0 0 6rem;
+        }
+        .app-develop-text {
+            padding: 0 6rem 0 0;
+        }
+        .web-develop-text h3 {
+            font-size: 30px;
+            line-height: 32px;
+        }
+
+        .web-develop-text p {
+            font-size: 16px;
+            line-height: 25px;
+            padding: 20px 0 20px 0;
+        }
+
+        .web-develop-text .leanrbtn {
+            font-size: 15px;
+            line-height: 20px;
+            padding: 10px 22px;
+        }
+
+        .app-develop-text h3 {font-size: 30px;
+            line-height: 32px;
+        }
+
+        .app-develop-text p {
+            font-size: 16px;
+            line-height: 25px;
+            padding: 20px 0 20px 0;
+        }
+
+        .app-develop-text .leanrbtn {
+            font-size: 15px;
+            line-height: 20px;
+            padding: 10px 22px;
+        }
+
+        .about h4 {
+            font-size: 20px;
+            line-height: 25px;
+        }
+
+        .about h2 {
+            font-size: 35px;
+            line-height: 40px;
+        }
+
+        .about {
+            padding: 5rem 5rem;
+        }
+
+        .about p {
+            font-size: 16px;
+            line-height: 25px;
+            padding: 20px 0 20px 0;
+        }
+
+        .about .leanrbtn {
+          font-size: 15px;
+            line-height: 20px;
+            padding: 12px 26px;
+        }
+
+        .client h2{
+            font-size: 35px;
+            line-height: 40px;
+
+        }
+/* --------------ABOUT PAGE(1024)---------------------*/
+
+
+.about-section{margin-top:-5rem;
+}
+
+.about-who .digital .digital-text h4 {
+    font-size: 20;
+    line-height: 25px;
+}
+
+.about-who .digital .digital-text h2 {
+    font-size: 35px;
+    line-height: 40px;
+    padding: 0 0 25px 0;
+}
+
+.about-who .digital .digital-text p {
+    font-size: 16px;
+    line-height: 25px;}
+
+    .about-who .digital .digital-text {
+        padding: 0 0 0 5rem;
+    }
+
+    .about-radical{margin: 7rem 0;}
+
+    .about-radical .child p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .about-radical .child h4 {
+        font-size: 22px;
+        line-height: 32px;}
+
+
+    .about-why-choose .why-choose-area .why-choose-area-text h4 {
+        font-size: 20px;
+        line-height: 25px;}
+
+.about-why-choose .why-choose-area .why-choose-area-text h2 {
+            font-size: 35px;
+            line-height: 40px;
+            padding: 0 0 20px 0;
+        }
+
+        .about-why-choose .why-choose-area .why-choose-area-text p {
+            font-size: 16px;
+            line-height: 25px;}
+
+
+.protext{
+font-size: 16px;
+line-height: 25px;
+}
+.perc {font-size: 16px;
+}
+
+.about-counter{margin: 5rem 0;
+}
+
+
+
+.about-counter .count {
+    font-size: 40px;
+    line-height: 45px;
+   background: url(../images/Plus2.png) 75% 60%;
+   background-repeat: no-repeat;
+}
+
+.about-counter .child h4 {
+    font-size: 16px;
+    line-height: 30px;
+
+}
+
+/* ---------------WEB DEVELOPMENT PAGE(1024)-------------*/
+
+
+
+.webdev{padding: 2rem 0 5rem 0;
+}
+
+
+.webdev h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.webdev h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+.webdev .webdev-area .webdev-area-text p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.webdev .webdev-area .webdev-area-text ul li {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.webdev .webdev-area .webdev-area-text .leanrbtn {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 22px;
+}
+
+.tabcontent {
+    padding: 50px 15px;
+}
+
+.webdev-service .child h4 {
+    font-size: 22px;
+    line-height: 31px;
+}
+.webdev-service .child p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.ready .ready-area h4 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.ready .ready-area p {
+    font-size: 16px;
+    line-height: 25px;
+}
+.ready .ready-area .button-box .leanrbtn {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 22px;
+}
+
+
+/* ---------------APP DEVELOPMENT PAGE(1024)-------------*/
+
+.why-choose h2 {font-size: 35px;
+    line-height: 40px;
+}
+
+/* ---------------ECOMMRECE SERVICE PAGE(1024)-------------*/
+.dedicate-team {
+    padding: 1rem 0;
+}
+
+.key-benefit {
+    padding: 3rem 0;
+}
+
+.ready{margin:4rem 0;
+    
+}
+/* ---------------SOCIAL MEDIA MARKETING PAGE(1024)-------------*/
+
+.social-media .app-team-text h4{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.social-media .app-team-text h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.social-media-task h2 {
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.social-media-task .child h4 {
+    font-size: 22px;
+    line-height: 30px;
+}
+
+/* ---------------SEARCH ENGINE OPTIMIZATION PAGE(1024)-------------*/
+#pricing .table-data h3 {
+    padding-top: 9px;
+    font-size: 16px;
+    line-height: 15px;
+}
+
+.seo-counter {
+    margin: 5rem 0;
+}
+/* ---------------GOOGLE AD SERVICE PAGE(1024)-------------*/
+
+.pay-per-click .app-team-text h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.pay-per-click-task h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.google-ad-management h2 {
+    font-size: 35px;
+    line-height: 40px;
+}
+
+
+}
+
+
+
+
+
+/* ==========================================SCREEN 768======================== */
+  @media only screen and (max-width:768px) {
+
+    .navigation nav ul li a:visited {color:#f0f0f0;
+    }
+    .navigation nav ul li a:active {color:#000;
+    }
+
+
+    .navigation {position: relative;
+    }
+    .navigation .nav-list {
+    position: absolute;
+    left: 0;
+    right: 0;
+        z-index:9999;
+        background: none;
+        }
+
+    header .logo img{
+        width:150px;
+        height: 50px;
+        
+      }
+      .nav-bar ul li a {
+        padding: 0px 0 0 24px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+
+    .banner .banner-text .text1{
+        margin:50px 0 0 0;
+    }
+    
+
+      .banner .banner-text>div h2 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    .banner .banner-text>div h1 {
+        font-size: 24px;
+        line-height: 30px;
+        width: 98%;
+        padding: 0 0 30px 0;
+    }
+
+    .bannerbtn {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 12px 14px;
+    }
+
+
+  
+
+.servicearea img{width:350px;
+height:300px;
+}
+    .service .service-head h4 {
+        font-family: 'Manrope', sans-serif;
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .service .service-head h2 {
+        font-size: 27px;
+        line-height:34px;
+    }
+
+ 
+    .web-develop{
+        flex-direction: column;
+        text-align: center;
+        margin: 50px 0 0 0;
+        }
+
+        .app-develop{
+            margin: 50px 0 0 0;
+            }
+
+
+.web-develop div{width:100%;
+}
+.app-develop{ flex-direction:column-reverse;
+    text-align: center;
+}
+.app-develop div{width:100%;
+}
+.web-develop-text {
+    padding: 0 0 0 0rem;
+}
+.app-develop-text {
+    padding: 0 0rem 0 0;
+}
+
+.web-develop-text h3 {
+    font-size:26px;
+    line-height: 30px;
+  }
+
+  .web-develop-text p {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 15px 0 15px 0;
+}
+.web-develop-text .leanrbtn {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 11px 20px;
+}
+
+.app-develop-text h3 {
+    font-size: 26px;
+    line-height: 30px;
+}
+.app-develop-text  p {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 15px 0 15px 0;
+}
+
+.app-develop-text .leanrbtn {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 11px 20px;
+}
+
+.about{
+    padding:5rem 2rem;
+    margin:100px 0 0 0;
+    }
+
+    .about h4 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .about h2 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+
+    .about p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 25px 0 15px 0;
+    }
+
+    .about .leanrbtn {
+        font-size: 13px;
+        line-height: 18px;
+        padding: 10px 20px;
+    }
+
+    .client h2 {
+        font-size:27px;
+        line-height: 34px;
+    }
+    footer .child .footer-para {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    footer .child ul li a {
+        font-size: 15px;
+        line-height: 20px;
+        margin: 15px 0 0 0;
+    }
+    footer .child ul li {
+        font-size: 15px;
+        line-height: 27px;
+        margin: 12px 0 0 0;
+    }
+
+    footer .child h5 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    footer .copyright p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+/*------------ABOUT PAGE(768)---------------*/
+
+
+.inner-banner .banner-text h1{ 
+    font-size: 40px;
+    line-height: 45px;
+   
+}
+
+.about-who{margin-top:12rem;
+}
+/* .about-who .digital img{width: 350px;
+    height: 300px;
+} */
+
+.about-who .digital .digital-text {
+    padding: 4rem 0 0 0rem;
+}
+.about-who .digital .digital-text h4 {
+    font-size: 20;
+    line-height: 22px;
+    text-align: center;
+}
+.about-who .digital .digital-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 19px 0;
+    text-align: center;
+}
+.about-who .digital .digital-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.about-who .digital{
+    flex-direction: column;
+}
+.about-radical{margin: 5rem 0;}
+.about-radical .child{margin: 20px 0 0 0;
+}
+
+.about-why-choose .why-choose-area {
+    flex-direction: column-reverse;
+}
+.about-why-choose .why-choose-area img{
+    width: 350px;
+    height: 300px;
+}
+.about-why-choose .why-choose-area .why-choose-area-text {
+    padding: 40px 0rem 0 0;
+}
+
+.about-why-choose .why-choose-area .why-choose-area-text h4{text-align: center;}
+
+
+.about-why-choose .why-choose-area .why-choose-area-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 15px 0;
+    text-align: center;
+}
+.about-why-choose .why-choose-area .why-choose-area-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.about-radical .child h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about-radical .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.protext {
+    font-size: 14px;
+    line-height: 22px;
+}
+.perc {
+    font-size: 14px;
+}
+.about-counter{margin: 5rem 0;
+}
+ .about-counter .count {
+    background: url(../images/Plus2.png) 66% 60%;
+    background-repeat: no-repeat;
+} 
+
+/*------------WEB DEVELOPMENT PAGE(768)--------------- */
+
+
+.webdev h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+.webdev .webdev-area {
+    flex-direction: column-reverse;
+}
+.webdev .webdev-area .webdev-area-text p {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 20px 0 0 0;
+}
+
+.webdev .webdev-area .webdev-area-text ul li {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.webdev .webdev-area .webdev-area-text .leanrbtn {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 11px 20px;
+}
+.webdev {
+    padding: 5rem 0 2rem;
+}
+.webdev-service .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.webdev-service .child h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.webdev-service .child h6 {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.ready .ready-area p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.ready .ready-area h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+.button-box .leanrbtn {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 11px 20px;
+    margin: 10px 0 0 0;
+}
+.ready .ready-area {
+    width: 90%;
+}
+.tab button {
+    font-size: 15px;
+    line-height: 22px;
+ }
+
+/*------------APP DEVELOPMENT PAGE(768)--------------- */
+
+
+.app-team{ 
+    flex-direction: column;
+    padding: 1rem 0;
+}
+
+ .app-team .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    text-align: center;
+}
+
+.app-team .app-team-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+} 
+.app-team .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+.why-choose h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+
+
+/*-----------ECOMMERCE SERVICE PAGE(768)--------------- */
+
+.dedicate-team{   
+    flex-direction: column;
+    padding:1rem 0;
+}
+.dedicate-team .app-team-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.dedicate-team .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+text-align: center;
+}
+.dedicate-team .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+  }
+
+  .key-benefit h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 5px 0;
+}
+
+.key-benefit .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.key-benefit .child h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.key-benefit .child h6 {
+    font-size: 18px;
+    line-height: 37px;
+}
+
+.management-service h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+.management-service .ecom-item h3 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.management-service .ecom-item p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+
+/*------------SOCIAL MEDIA MARKETING PAGE(768)--------------- */
+
+
+.social-media{   
+    padding:5rem 0 2rem 0;
+    flex-direction: column;
+}
+
+.img-mid{align-items: center;
+   
+}
+
+.social-media .app-team-text{padding: 0 0 0 0;
+}
+.social-media .app-team-text h4{text-align: center;
+}
+.social-media .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+.social-media .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.social-media .app-team-text .leanrbtn {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 22px;
+    margin: 0 auto;
+    display: table;
+}
+
+.social-media-task h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+.social-media-task .child h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.social-media-task .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.social-media-task .child h6 {
+    font-size: 18px;
+    line-height: 38px;
+}
+
+
+/*------------SEARCH ENGINE OPTIMIZATION PAGE(768)--------------- */
+
+
+.seo-management{
+    padding:3rem 0;
+    flex-direction: column;
+}
+.seo-management .app-team-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+text-align: center;
+}
+
+.seo-management .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    text-align: center;
+}
+.seo-management .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.seo-management .app-team-text .leanrbtn {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 22px;
+    margin: 0 auto;
+    display: table;
+}
+.seo-important h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 10px 0;
+}
+
+.seo-important .child {
+    margin: 16px 0 0 0;
+}
+
+.seo-important .child h6 {
+    font-size: 18px;
+    line-height: 37px;
+}
+
+.seo-important .child h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.seo-important .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.seo-service-include h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+.seo-service-include .ecom-item h3 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.seo-service-include .ecom-item p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.switch-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.switch-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+#pricing .table-data{margin-top: 10px;
+}
+
+.seo-counter .child h4 {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.seo-counter .count {
+    font-size: 40px;
+    line-height: 45px;
+    background: url(../images/Plus2.png) 66% 60%;
+    background-repeat: no-repeat;
+}
+.seo-counter {
+    margin: 3rem 0;
+}
+
+
+/*------------GOOGLE AD SERVICE PAGE(768)--------------- */
+
+.pay-per-click{  
+    padding:5rem 0 2rem 0;
+    flex-direction: column;
+}
+.pay-per-click .app-team-text{padding: 0 0 0 0;}
+
+.pay-per-click .app-team-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.pay-per-click .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    text-align: center;
+}
+
+.pay-per-click .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.pay-per-click .app-team-text .leanrbtn {
+    font-size: 13px;
+    line-height: 21px;
+    padding: 11px 20px;
+    margin: 0 auto;
+    display: table;
+}
+.pay-per-click-task h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 5px 0;
+}
+
+.pay-per-click-task .child h6 {
+    font-size: 18px;
+    line-height: 37px;
+}
+
+    .pay-per-click-task .child h4 {
+        font-size: 18px;
+        line-height: 25px;
+}
+.pay-per-click-task .child p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.pay-per-click-task .child {
+    margin: 10px 0 0 0;
+}
+.google-ad-management h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+.google-ad-management .ecom-item h3 {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.google-ad-management .ecom-item p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+
+
+/*------------CONTACT  PAGE(768)--------------- */
+
+.contact{
+flex-direction: column;
+}
+
+.contact .contact-form{
+    width:100%;
+}
+.contact .contact-details{
+    width:100%;
+} 
+.contact .contact-form .form-area form h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.contact .contact-form .form-area form h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+.contact .contact-details h4 {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.contact .contact-details h2 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+.contact .contact-details p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.contact .contact-details .con-icon {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+
+/*------------CONTENT MARKETING  PAGE(768)--------------- */
+
+.content-marketing{  
+    padding:5rem 0 2rem 0;
+    flex-direction: column;
+}
+.content-marketing .app-team-text{padding: 0 0 0 0;}
+
+.content-marketing .app-team-text h4 {
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.content-marketing .app-team-text h2 {
+    font-size: 27px;
+    line-height: 34px;
+    text-align: center;
+}
+.content-marketing .app-team-text p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+}
+.content-marketing .app-team-text .leanrbtn {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 22px;
+    margin: 0 auto;
+    display: table;
+  
+}
+
+.content-marketing-task h2 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 5px 0;
+}
+
+.content-marketing-task .child {
+    margin: 10px 0 0 0;
+}
+
+.content-marketing-task .child h6 {
+    font-size: 18px;
+    line-height: 38px;
+}
+
+.content-marketing-task .child h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.content-marketing-task .child p {
+    font-size: 14px;
+    line-height: 27px;
+}
+
+/*------------PRIVACY POLICY  PAGE(768)--------------- */
+
+.privacy-policy p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.privacy-policy h4 {
+    font-size:18px;
+    line-height:22px;
+    padding: 10px 0;
+}
+
+
+
+}
+
+
+  
+/* ==========================================SCREEN 480======================== */
+
+@media only screen and (max-width:480px) {
+
+    .navigation .brand img{width:140px;
+    height:50px;
+    }
+    
+    .banner .banner-text {
+       flex-direction:column-reverse;
+    }
+
+    
+
+/* ------------ABOUT PAGE(480)------------------------ */
+
+.inner-banner .banner-text h1 {
+    font-size: 30px;
+    line-height:35px;
+}
+
+
+.about-radical{margin: 3rem 0;}
+.about-counter{margin: 4rem 0;}
+    .mycontainer {
+        height: 20px;
+    
+    }
+    .perc {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+/* ------------WEBDEVELOPMENT PAGE(480)------------------------ */
+
+.webdev{padding: 4rem 2rem 1rem 2rem;
+}
+
+    .webdev h2{
+        width:100%;
+    }
+.webdev-area img{width:350px;
+height:260px;
+}
+
+.tab button {
+    padding: 8px 16px;}
+
+    .webdev .webdev-area .webdev-area-text .leanrbtn {
+        padding: 8px 20px;
+    }
+
+    .ready .ready-area .button-box .leanrbtn {
+        padding: 8px 22px;
+    }
+
+/* ------------ECOMMERCE PAGE(480)------------------------ */
+
+.key-benefit .child {
+    margin: 15px 0 0 0;
+}
+
+/* ------------CONTACT PAGE(480)------------------------ */
+.contact{
+padding: 2rem 0;
+
+}
+
+
+}
+
+/* ==========================================SCREEN 360======================== */
+
+@media only screen and (max-width:360px) {
+
+
+    .banner .banner-text .text1 h2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .banner .banner-text .text1 h1 {
+        font-size: 22px;
+        line-height: 27px;
+        width: 100%;
+        padding: 0 0 19px 0;
+    }
+
+.bannerbtn {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 10px 13px;
+    }
+
+    .service .service-head h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .service .service-head h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .web-develop-text h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .app-develop-text h3 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+
+.servicearea img {
+        width: 300px;
+        height: 250px;
+    }
+
+.about h4 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .about h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+/* ------ABOUT PAGE(360)----------------------------------- */
+
+    .about-section{margin-top:1rem;
+    }
+    
+.about-who .digital .digital-text h4 {
+    font-size:18px;
+    line-height: 20px;
+}
+
+.about-who .digital .digital-text h2{ font-size: 25px;
+    line-height: 30px;
+}
+
+
+.about-radical .child h4 {
+    font-size: 18px;
+    line-height: 22px;
+}
+.about-why-choose .why-choose-area .why-choose-area-text h4{
+    font-size:18px;
+    line-height: 20px;
+}
+.about-why-choose .why-choose-area .why-choose-area-text h2 {
+    font-size: 25px;
+line-height: 30px;
+}
+    .about-who{margin-top:6rem;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
